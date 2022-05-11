@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+
+#test{
+display:flex;
+border: solid 1px grey;
+background-color: rgb(104, 104, 104, 0.2);
+}
